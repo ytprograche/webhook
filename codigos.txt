@@ -1,0 +1,13 @@
+No copies este mensaje solo copia lo que este devajo de YT o Twitch
+
+YT
+{ "username" : "Nombre del weebhook", "content":"**{{AuthorName}}** Subió un video nuevo @everyone 
+**{{Title}}**:
+ {{Url}}" }
+
+
+Twitch
+{ "username" : " Nombre del webhook", "content":"**{{ChannelName}}** Esta en directo @everyone 
+Esta jugando ** {{Game}}**:
+ {{ChannelUrl}}" }
+
